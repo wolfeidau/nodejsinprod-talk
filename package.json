@@ -1,0 +1,16 @@
+{
+  "name": "nodejspreso",
+  "version": "1.0.0",
+  "description": "Some test scripts for nodejs.",
+  "main": "requesthttps.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "hoek": "^2.8.0",
+    "node-statsd": "0.0.7",
+    "request": "^2.45.0"
+  }
+}
